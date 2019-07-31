@@ -22,7 +22,7 @@ namespace Class_UML
 
         public override string ToString()
         {
-            return $"{Name}\n{Address}\n{Program}\n{Year}\nProgram Fee: ${Fee}\n";
+            return $"Student:\n{Name}\n{Address}\n{Program}\n{Year}\nProgram Fee: ${Fee}\n";
         }
 
     }
